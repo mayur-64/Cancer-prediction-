@@ -13,11 +13,7 @@ learning algorithms that’s best fit for the above case.
 
 We have started with data exploration, Data cleaning(if required), model building and modeltesting. We have implemented 3 different Machine learning algorithms, which are as follows :
 
-      1.**Simple Logistic regression :**
-                                   Logistic regression is a type of supervised machine learning used to predict the probability of a target variable. It is used to                                          estimate the relationship between a dependent (target) variable and one or more independent variables. The output of the dependent                                        variable is represented in discrete values such as 0 and 1. 
-      2.**KNN classifiers :**
-      
-      3.**Decision tree :**awfaiulbca
+
       
 
 **Results:** You have to build a solution that should able to predict the probability of credit
