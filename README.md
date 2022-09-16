@@ -50,7 +50,7 @@ PAY_AMT3: Amount of previous payment in July, 2005 (NT dollar)
 PAY_AMT4: Amount of previous payment in June, 2005 (NT dollar)
 PAY_AMT5: Amount of previous payment in May, 2005 (NT dollar)
 PAY_AMT6: Amount of previous payment in April, 2005 (NT dollar)
-default.payment.next.month: Default payment (1=yes, 0=no)
+default.payment.next.month: Default payment 1=yes, 0=no
 
 **Acknowledgements**
 Any publications based on this dataset should acknowledge the following:
