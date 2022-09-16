@@ -1,4 +1,4 @@
-**Releasing my first GITHUB repository. Project is based on Credit card fraud detection using basic Machine learning algorithms. **
+  **Releasing my first GITHUB repository. Project is based on Credit card fraud detection using basic Machine learning algorithms. **
 
 **Problem Statement:**
 Financial threats are displaying a trend about the credit risk of commercial banks as the
