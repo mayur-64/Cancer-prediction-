@@ -18,8 +18,7 @@ We have started with data exploration, Data cleaning(if required), model buildin
 2.	KNN classifiers
 3.	Decision tree
   
-**Results:** You have to build a solution that should able to predict the probability of credit
-default based on credit card owner’s characteristics and payment history.
+Later, We have compared the performance of this 3 algorithms accuracy also we have plot a line graph to visualise and compare the performance of the 3 algorithms.
 
 
 **Dataset Information**
